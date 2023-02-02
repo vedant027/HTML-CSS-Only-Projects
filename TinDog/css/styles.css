@@ -141,6 +141,39 @@ p {
     padding: 3% 2%;
 }
 
+/* Call to Action */
+
+#cta {
+    background-color: #ff4c68;
+    color: #fff;
+    text-align: center;
+    padding: 5rem 0 3.5rem;
+}
+
+.cta-info {
+    font-size: 3.5rem;
+    padding-bottom: 0px;
+}
+
+/* Footer */
+
+#footer {
+    text-align: center;
+    padding: 7rem 0 7rem;
+}
+
+.footer-icon {
+    margin: 10px;
+}
+
+.footer-info {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+
+/* Media Queries */
+
 @media (max-width: 991.5px){
 
 #title {
@@ -153,3 +186,4 @@ p {
     }
 
 }
+
