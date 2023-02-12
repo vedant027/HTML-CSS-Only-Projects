@@ -71,6 +71,10 @@ a {
     font-size: 30px;
 }
 
+.sub-text {
+    font-size: 13.5px; 
+}
+
 .footer-info {
     position: absolute;
     left: 250px;
