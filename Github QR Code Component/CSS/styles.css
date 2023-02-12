@@ -23,11 +23,11 @@ a {
 
 .qr-image {
     background-color: rgb(13, 139, 223);
-    border-radius: 10px;
-    height: 150px;
+    border-radius: 15px;
+    height: 190px;
     border: 1px solid rgb(13, 139, 223);
     margin-top: 10px;
-    padding: 40px;
+    padding: 23px;
 }
 
 .main-heading {
@@ -39,6 +39,7 @@ a {
     color: gray;
     font-size: 15px;
     font-weight: 400;
+    line-height: 1.5;
 }
 
 /* Footer Section */
