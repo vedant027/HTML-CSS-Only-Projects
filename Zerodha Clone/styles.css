@@ -1,0 +1,90 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.navbar {
+    display: flex;
+    flex-flow: row wrap;
+    padding: 25px 0px 25px 300px;
+    box-shadow: 2px 1px 2px #eee;
+    box-sizing: border-box;
+}
+
+.navbar-image {
+    height: 17px;
+}
+
+.navbar-items {
+    display: flex;
+    flex-flow: flex wrap;
+    padding-left: 495px;
+}
+
+.navbar-item {
+    padding-right: 42px;
+}
+
+.navbar-items span {
+    color: #666;
+    font-size: 0.9rem;
+}
+
+.zerodha-imgContainer {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.zerodha-image {
+    height: 380px;
+    width: 900px;
+}
+
+.landingpage-content {
+    color: #424242;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.landingpage-heading {
+    font-size: 2.75rem;
+    font-weight: 500;
+    line-height: 1.25;
+}
+
+.landingpage-info {
+    font-size: 1.25rem;
+    font-weight: 400;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.landingpage-button {
+    font-family: 'Inter', sans-serif;
+    background-color: #387ed1;
+    color: #fff;
+    border: 1px solid rgba(0,0,0,0) !important;
+    border-radius: 3px;
+    display: inline-block;
+    padding: 10px 30px;
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: 800;
+    line-height: 1.2em;
+    font-weight: 500;
+    text-decoration: none;
+    white-space: nowrap;
+    cursor: pointer;
+    box-sizing: border-box;
+    margin-top: 30px;
+}
+
+.landingpage-button:hover {
+    background-color: #000;
+}
